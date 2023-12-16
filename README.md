@@ -2,9 +2,14 @@
 
 ## Table of contents
 * [Description](#description)
-* [Goals Reached](what-ive-learned)
-* [Reason](what-this-is-for)
-* [Demonstration](view-code-working)
+* [Goals Reached](#what-ive-learned)
+* [Reason](#what-this-is-for)
+* [Demonstration](#view-code-working)
+
+
+## Description
+> An arduino application that blinks led lights
+
 
 ## What I've learned
 1. Using the Arduino Interface
@@ -16,13 +21,6 @@
 > This simple project is for introducing me to programming with an arduino device.
 > I have learned many new concepts by building this project.
 > This project will be the starting point in my journey of creating enterprise level projects.
- 
-
-
-## Description
-> An arduino application that blinks led lights
-
-
 
 
 ## View code working!
