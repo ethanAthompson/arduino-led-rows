@@ -1,8 +1,8 @@
 # arduino-led-rows
 
 ## Table of contents
-[Description](#description)
-[Demonstration](view-code-working!)
+* [Description](#description)
+* [Demonstration](view-code-working!)
 
 
 ## Description
