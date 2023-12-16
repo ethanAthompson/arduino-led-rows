@@ -1,7 +1,8 @@
-# arduino-led-rows
+# Arduino LED Rows
 
 ## Table of contents
 * [Description](#description)
+* [Features](#features)
 * [Goals Reached](#what-ive-learned)
 * [Reason](#what-this-is-for)
 * [Demonstration](#view-code-working)
@@ -10,6 +11,15 @@
 ## Description
 > An arduino application that blinks led lights
 
+## Features
+- [x] Blinking Right to Left
+- [x] Blinking Left to Right
+- [x] PWM pins
+  - [x] 10
+  - [x] 9
+  - [x] 6
+  - [x] 5
+  - [x] 3
 
 ## What I've learned
 1. Using the Arduino Interface
