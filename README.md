@@ -2,11 +2,27 @@
 
 ## Table of contents
 * [Description](#description)
-* [Demonstration](view-code-working!)
+* [Goals Reached](what-ive-learned)
+* [Reason](what-this-is-for)
+* [Demonstration](view-code-working)
+
+## What I've learned
+1. Using the Arduino Interface
+2. Schematics
+3. Organizing components on a breadboard
+
+
+## What this is for?
+> This simple project is for introducing me to programming with an arduino device.
+> I have learned many new concepts by building this project.
+> This project will be the starting point in my journey of creating enterprise level projects.
+ 
 
 
 ## Description
 > An arduino application that blinks led lights
+
+
 
 
 ## View code working!
